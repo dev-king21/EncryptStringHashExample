@@ -135,11 +135,11 @@ namespace EncodeDecodeChecker
         {
             Byte[] input = Properties.Resources.input;
             Byte[] output = new byte[input.Length];
-            Byte[] output2 = new byte[input.Length];
             for (int i = 0; i < input.Length; i++) {
                 output[i] = (byte)((byte) input[i] ^ 71);
             }
             File.WriteAllBytes("output.bin", output);
         }
+
     }
 }

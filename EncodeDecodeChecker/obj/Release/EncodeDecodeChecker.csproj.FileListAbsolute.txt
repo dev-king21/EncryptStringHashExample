@@ -7,3 +7,4 @@ D:\@Work\EncodeDecodeChecker\EncodeDecodeChecker\obj\Release\EncodeDecodeChecker
 D:\@Work\EncodeDecodeChecker\EncodeDecodeChecker\obj\Release\EncodeDecodeChecker.csproj.CoreCompileInputs.cache
 D:\@Work\EncodeDecodeChecker\EncodeDecodeChecker\obj\Release\EncodeDecodeChecker.exe
 D:\@Work\EncodeDecodeChecker\EncodeDecodeChecker\obj\Release\EncodeDecodeChecker.pdb
+D:\@Work\EncodeDecodeChecker\EncodeDecodeChecker\obj\Release\EncodeDecodeChecker.csprojAssemblyReference.cache
